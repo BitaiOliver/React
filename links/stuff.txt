@@ -1,0 +1,13 @@
+1. https://www.youtube.com/watch?v=SqcY0GlETPk \ React Tutorial for Beginners = at minute 58
+
+2. https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 / tutorial 1
+
+
+
+----stuff for tutorial 1----
+start server: npm run dev
+
+local server: http://localhost:5173/
+
+
+---- end stuff for tutorial 1----
